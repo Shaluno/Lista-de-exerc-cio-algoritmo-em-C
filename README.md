@@ -1,4 +1,4 @@
-# Lista-de-exerc-cio-algoritmo-em-C
+# Lista-de-exerccio-algoritmo-em-C
 Trabalho acadêmico com foco em desenvolvimento básico e prática na linguagem C.
 
 Exercícios em C - Estruturas de Controle
